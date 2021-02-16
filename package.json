@@ -26,6 +26,7 @@
     "cross-env": "^7.0.2",
     "css-loader": "^5.0.0",
     "css-minimizer-webpack-plugin": "^1.1.5",
+    "css-mqpacker-webpack-plugin": "^0.5.0",
     "eslint": "^7.12.1",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-prettier": "^7.2.0",
